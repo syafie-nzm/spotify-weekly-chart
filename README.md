@@ -3,7 +3,7 @@
 ## Introduction
 This repo is for documentation for simple 'data engineering' and data analysis project. Extracting spotify weekly chart (2023/10/19) for Malaysia listener. I ([Syafie](https://github.com/syafie-nzm)) as the data engineer preparing the data for further analysis, which [Najwa](https://github.com/wawalatte) the data analyst.
 
-## Export Transform Load (ETL) flow
+## Extract Transform Load (ETL) flow
 ![ETL](https://github.com/syafie-nzm/spotify-weekly-chart/assets/139424157/f6834bc3-9723-4cc4-a6f5-f04739f46747)
 
 
