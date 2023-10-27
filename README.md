@@ -7,7 +7,7 @@ This repo is for documentation for simple 'data engineering' and data analysis p
 ![ETL](https://github.com/syafie-nzm/spotify-weekly-chart/assets/139424157/f6834bc3-9723-4cc4-a6f5-f04739f46747)
 
 
-### Export
+### Extract
 There are two sources we extract data from:
 - [Spotify API](https://developer.spotify.com/documentation/web-api)
 - [Kworb.net](https://kworb.net/spotify/country/my_weekly.html)
